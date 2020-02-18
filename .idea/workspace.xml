@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7918b5b3-29f5-465e-b630-a4a5357625e4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XwM7ygBXxevqWurri6VsvMi7gG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
+  </component>
+  <component name="RunManager" selected="JUnit.All in employee_lab">
+    <configuration name="All in employee_lab" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="employee_lab" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DatabaseAdminTest.canGetBonus" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="employee_lab" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DatabaseAdminTest" />
+      <option name="METHOD_NAME" value="canGetBonus" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeveloperTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="employee_lab" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DeveloperTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DirectorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="employee_lab" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DirectorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManagerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="employee_lab" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ManagerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in employee_lab" />
+        <item itemvalue="JUnit.ManagerTest" />
+        <item itemvalue="JUnit.DirectorTest" />
+        <item itemvalue="JUnit.DeveloperTest" />
+        <item itemvalue="JUnit.DatabaseAdminTest.canGetBonus" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7918b5b3-29f5-465e-b630-a4a5357625e4" name="Default Changelist" comment="" />
+      <created>1581952539727</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581952539727</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1020" height="271" key="GridCell.Tab.0.bottom" timestamp="1581964393088">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="1020" height="271" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1581953773758" />
+    <state width="1020" height="271" key="GridCell.Tab.0.bottom/180.1152.1680.1050/0.0.2048.1152@0.0.2048.1152" timestamp="1581964393088" />
+    <state width="1020" height="271" key="GridCell.Tab.0.center" timestamp="1581964393087">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="1020" height="271" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1581953773757" />
+    <state width="1020" height="271" key="GridCell.Tab.0.center/180.1152.1680.1050/0.0.2048.1152@0.0.2048.1152" timestamp="1581964393087" />
+    <state width="1020" height="271" key="GridCell.Tab.0.left" timestamp="1581964393087">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="1020" height="271" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1581953773757" />
+    <state width="1020" height="271" key="GridCell.Tab.0.left/180.1152.1680.1050/0.0.2048.1152@0.0.2048.1152" timestamp="1581964393087" />
+    <state width="1020" height="271" key="GridCell.Tab.0.right" timestamp="1581964393088">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="1020" height="271" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1581953773757" />
+    <state width="1020" height="271" key="GridCell.Tab.0.right/180.1152.1680.1050/0.0.2048.1152@0.0.2048.1152" timestamp="1581964393088" />
+    <state width="1020" height="334" key="GridCell.Tab.1.bottom" timestamp="1581953258533">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1020" height="334" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1581953258533" />
+    <state width="1020" height="334" key="GridCell.Tab.1.center" timestamp="1581953258532">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1020" height="334" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1581953258532" />
+    <state width="1020" height="334" key="GridCell.Tab.1.left" timestamp="1581953258532">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1020" height="334" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1581953258532" />
+    <state width="1020" height="334" key="GridCell.Tab.1.right" timestamp="1581953258532">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1020" height="334" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1581953258532" />
+  </component>
+</project>
